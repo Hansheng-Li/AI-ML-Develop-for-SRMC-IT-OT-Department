@@ -34,3 +34,54 @@ Applying AI and Machine Learning methodologies to collaborate with our IT/OT tea
 - **Models Used**: AWSM II and Process Optimization Model (POM) developed by DBD Inc., using AnyLogic and gPROMS software to simulate logistics and chemical processes.
 - **Results**: Over 100 scenarios were modeled, with 35 achieving the 2037 completion objective. Improvements include increasing SWPF filtration rate, reducing MST strike time and quantity, and increasing CSSX throughput.
  
+# Applying AI and Machine Learning in SRMC's IT/OT Department
+
+### 1. Waste Processing Data
+- **Waste Quantity and Type**: Volume, weight, and chemical composition of liquid waste.
+- **Radioactivity Levels**: Intensity and decay rate of the waste.
+- **Processing Progress**: Speed and completion status of each processing stage.
+
+### 2. Equipment Operation Data
+- **Equipment Status Data**: Running time, downtime, fault types, and maintenance records.
+- **Sensor Data**: Real-time monitoring parameters such as temperature, pressure, and flow rate.
+- **Equipment Performance Metrics**: Filtration efficiency, energy consumption, and output efficiency.
+
+### 3. Environmental Monitoring Data
+- **Air Quality**: Emission monitoring data.
+- **Water Quality**: Wastewater monitoring data.
+- **Soil Samples**: Radioactivity and pollutant levels in soil.
+
+### 4. Operations and Logistics Data
+- **Transfer Records**: Routes, times, and frequencies of waste transfers.
+- **Processing Workflow Data**: Time logs and output efficiency for each processing step.
+- **Inventory Data**: Remaining capacity of storage tanks and processing facility capabilities.
+
+### 5. Safety and Compliance Data
+- **Safety Inspection Records**: Results of regular safety checks and audits.
+- **Compliance Reports**: Detailed reports on regulatory adherence.
+- **Incident Records**: Handling of accidents and violations.
+
+## Applications of AI and ML
+
+### Predictive Maintenance
+- Predict equipment failures to optimize maintenance schedules.
+
+### Process Optimization
+- Analyze processing data to improve efficiency.
+
+### Environmental Impact Prediction
+- Use AI models to forecast the environmental impact of processing activities.
+
+### Intelligent Decision Support
+- Provide real-time data analysis to optimize resource allocation and processing strategies.
+
+## Data Handling
+
+### Data Collection
+- Real-time collection of equipment and environmental data through sensors and monitoring systems.
+
+### Data Storage
+- Centralized data warehouse to store all relevant data, ensuring data integrity and security.
+
+### Data Cleaning and Preparation
+- Clean and preprocess data to ensure high-quality datasets for machine learning model training.
