@@ -91,17 +91,41 @@ Applying AI and Machine Learning methodologies to collaborate with our IT/OT tea
 
 ## AI and ML Application Methods
 
-### Predictive Maintenance
-- Analyzing equipment data to predict failures and optimize maintenance schedules
+### 1. Predictive Maintenance
+- **Application**: Predict equipment failures and optimize maintenance schedules.
+- **Algorithms**: LSTM, GRU, Isolation Forest, DBSCAN.
+- **Example**: Analyze pump and agitator operation data to predict failures and schedule maintenance proactively.
 
-### Process Optimization
-- Analyzing waste processing data to optimize workflows and improve efficiency
+### 2. Process Optimization
+- **Application**: Improve efficiency, reduce processing time and resource consumption.
+- **Algorithms**: Linear Regression, Decision Tree Regression, Random Forest Regression, Q-learning, DQN.
+- **Example**: Optimize filtration rates and mixing times in SWPF and DWPF.
 
-### Environmental Impact Prediction
-- Predicting the environmental impact of waste processing to develop preventive measures
+### 3. Environmental Impact Prediction
+- **Application**: Predict the environmental impact of processing activities to ensure regulatory compliance.
+- **Algorithms**: Random Forest, SVM.
+- **Example**: Analyze air, water, and soil data to predict the impact of different processing methods.
 
-### Intelligent Decision Support
-- Real-time data analysis to optimize resource allocation and processing strategies
+### 4. Intelligent Decision Support
+- **Application**: Real-time data analysis to optimize resource allocation and processing strategies.
+- **Algorithms**: Bayesian Networks, Decision Trees.
+- **Example**: Provide optimized processing plans and resource allocation suggestions based on real-time data.
+
+### 5. Safety Monitoring and Compliance Management
+- **Application**: Automate safety checks and compliance reporting.
+- **Algorithms**: NLP, CNN.
+- **Example**: Automatically analyze safety inspection records and compliance reports to identify potential violations.
+
+### 6. Inventory Management Optimization
+- **Application**: Optimize the capacity usage of storage tanks and processing facilities.
+- **Algorithms**: Linear Programming, Mixed-Integer Programming.
+- **Example**: Optimize waste storage and processing schedules based on inventory data.
+
+### 7. Logistics Optimization
+- **Application**: Optimize waste transfer routes and times to improve transportation efficiency.
+- **Algorithms**: Genetic Algorithms, Ant Colony Algorithms, VRP.
+- **Example**: Optimize routes for waste transportation from storage tanks to processing facilities.
+
 
 By leveraging AI and ML with the above data and methods, SRMC can enhance waste processing efficiency and safety, optimize operations, reduce environmental impact, ensure compliance, and achieve the 2037 mission completion goal.
 
