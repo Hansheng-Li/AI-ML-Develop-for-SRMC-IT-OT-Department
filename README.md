@@ -36,33 +36,6 @@ Applying AI and Machine Learning methodologies to collaborate with our IT/OT tea
  
 # Applying AI and Machine Learning in SRMC's IT/OT Department
 
-### 1. Waste Processing Data
-- **Waste Quantity and Type**: Volume, weight, and chemical composition of liquid waste.
-- **Radioactivity Levels**: Intensity and decay rate of the waste.
-- **Processing Progress**: Speed and completion status of each processing stage.
-
-### 2. Equipment Operation Data
-- **Equipment Status Data**: Running time, downtime, fault types, and maintenance records.
-- **Sensor Data**: Real-time monitoring parameters such as temperature, pressure, and flow rate.
-- **Equipment Performance Metrics**: Filtration efficiency, energy consumption, and output efficiency.
-
-### 3. Environmental Monitoring Data
-- **Air Quality**: Emission monitoring data.
-- **Water Quality**: Wastewater monitoring data.
-- **Soil Samples**: Radioactivity and pollutant levels in soil.
-
-### 4. Operations and Logistics Data
-- **Transfer Records**: Routes, times, and frequencies of waste transfers.
-- **Processing Workflow Data**: Time logs and output efficiency for each processing step.
-- **Inventory Data**: Remaining capacity of storage tanks and processing facility capabilities.
-
-### 5. Safety and Compliance Data
-- **Safety Inspection Records**: Results of regular safety checks and audits.
-- **Compliance Reports**: Detailed reports on regulatory adherence.
-- **Incident Records**: Handling of accidents and violations.
-
-## Data Types and AI/ML Applications
-
 ### Waste Processing Data
 - **Data Types**: Waste quantity and type, radiation levels, processing progress
 - **Algorithms**: Regression analysis, time series analysis, clustering analysis
