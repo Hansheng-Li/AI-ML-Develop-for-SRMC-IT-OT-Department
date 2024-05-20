@@ -13,33 +13,24 @@ Applying AI and Machine Learning methodologies to collaborate with our IT/OT tea
 - Remediation and Treatment of Contaminated Surface Water, Groundwater, and Soils
 - Decontamination of Nuclear Facilities and Equipment
   
+## Liquid Waste System Plan Summary
 
-## Liquid Waste System Plan Objectives
+## 1. Executive Summary
+- **Goal**: Complete the processing and closure of the Liquid Waste (LW) system at the Savannah River Site (SRS) by the end of 2037.
+- **Recent Progress**: The Salt Waste Processing Facility (SWPF) has been operational, processing over 5 million gallons of dissolved salt solution. The Defense Waste Processing Facility (DWPF) has produced 4,319 glass canisters from April 1996 to September 2022, with a projected total of 8,100 canisters over the project lifecycle.
 
-- **Data Analysis and Prediction**: Utilize AI techniques for data collection and processing to analyze system operational data, including equipment status, waste processing metrics, and environmental conditions.
-- **System Optimization**: Employ AI to optimize resource allocation, material transfer, and scheduling, ensuring maximum efficiency of the system.
-- **Risk Management**: Implement AI algorithms to identify and analyze potential risks, predicting their impact on system operations, and developing mitigation strategies.
-- **Decision Support**: Leverage AI and ML insights to support data-driven decision-making, enhancing the effectiveness of operational and maintenance planning.
-- **Innovation and Improvement**: Continuously apply the latest AI and ML technologies to drive process innovation and system management improvements.
+## 2. Planning Summary and Results
+- **Waste Retrieval**: Uses mechanical agitation pumps to suspend solids and transfer waste for further processing.
+- **Sludge Processing**: Involves low-temperature aluminum dissolution, blending and washing, feeding to DWPF, and vitrification.
+- **DWPF Operations**: Combines washed sludge with high-level waste streams from salt processing for vitrification into glass canisters. Plans to process 325 canisters per year, with an assumed melter replacement in early FY29.
+- **Salt Processing**: Continues using SWPF to process salt waste, with completion expected by 2035.
 
-## Implementation Strategies
+## 3. System Description
+- **Tank Storage and Waste Removal**: Employs methods like Drain, Add, Remove (DAR) and Commercial Submersible Mixing Pumps (CSMP) for waste dissolution and transfer.
+- **Safe Disposal of Waste**: Involves vitrification at DWPF and solidification into saltstone at the Saltstone Production Facility (SPF), followed by tank closure and decontamination of auxiliary equipment.
 
-### Data Analysis and Prediction
-- **Data Collection and Processing**: Use AI techniques to gather and process large volumes of operational data.
-- **Predictive Maintenance**: Apply machine learning algorithms to analyze historical data and predict maintenance needs and potential failure points, increasing equipment reliability and availability.
-
-### System Optimization
-- **Process Optimization Model (POM)**: Utilize AI to optimize resource loading, material transfer volumes, and timing for efficient system operation.
-- **Technical Optimization Model (TOM)**: Use machine learning to optimize chemical processing, ensuring optimal conditions and resource utilization.
-
-### Risk Management
-- **Risk Prediction**: Apply AI algorithms to identify and analyze potential risk factors and predict their impact on system operations.
-- **Mitigation Strategies**: Develop and implement strategies based on AI predictions to mitigate risks and minimize their impact on the system.
-
-### Decision Support
-- **Data-Driven Decisions**: Utilize AI and ML analysis results to provide scientific decision support for management, helping to formulate effective operational and maintenance plans.
-- **Real-Time Monitoring and Adjustment**: Use AI technologies for real-time monitoring of system status, promptly identifying and adjusting to anomalies to ensure stable operation.
-
-### Innovation and Improvement
-- **New Technology Applications**: Continuously research and apply the latest AI and ML technologies to drive process and system management innovation.
-- **System Upgrades**: Optimize system upgrade plans through AI, ensuring efficient integration and operation of new technologies and equipment.
+## 4. Modeling the LW System
+- **Purpose**: To predict system performance, identify bottlenecks, and find improvement opportunities.
+- **Models Used**: AWSM II and Process Optimization Model (POM) developed by DBD Inc., using AnyLogic and gPROMS software to simulate logistics and chemical processes.
+- **Results**: Over 100 scenarios were modeled, with 35 achieving the 2037 completion objective. Improvements include increasing SWPF filtration rate, reducing MST strike time and quantity, and increasing CSSX throughput.
+ 
