@@ -161,3 +161,8 @@ Applying AI and Machine Learning methodologies to collaborate with our IT/OT tea
 **Scenario**: Rapidly training new employees on complex operations and safety protocols.
 - **Role of RAG and LLM**: RAG retrieves training materials, and LLM generates personalized learning plans and quizzes, improving training effectiveness and quickly enhancing new employee skills.
  
+[Top 45 Machine Learning Questions](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
+
+[NYU Artificial Intelligence](https://pantelis.github.io/artificial-intelligence/intro.html)
+
+[Machine Learning Model Choose](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet)
